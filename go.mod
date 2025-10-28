@@ -1,4 +1,4 @@
-module github.com/ardianhermawan17/warehouse-management-system-ddd.git
+module github.com/ardianhermawan17/warehouse-management-system-ddd
 
 go 1.23
 
